@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.svg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.svg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.svg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.svg"
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "price": 79.99,
+    "imgUrl": "/imgs/headphones.svg"
+  },
+  {
+    "id": 6,
+    "name": "Coffee",
+    "price": 6.5,
+    "imgUrl": "/imgs/coffee.svg"
+  },
+  {
+    "id": 7,
+    "name": "T-Shirt",
+    "price": 19.99,
+    "imgUrl": "/imgs/tshirt.svg"
+  },
+  {
+    "id": 8,
+    "name": "Camera",
+    "price": 499.99,
+    "imgUrl": "/imgs/camera.svg"
+  },
+  {
+    "id": 9,
+    "name": "Desk Lamp",
+    "price": 34.5,
+    "imgUrl": "/imgs/desklamp.svg"
+  }
+]

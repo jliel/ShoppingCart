@@ -1,0 +1,10 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Desk Lamp">
+  <rect width="640" height="640" fill="#F8FAFC"/>
+  <path d="M220 170L392 170C402 170 410 178 410 188V210C410 220 402 228 392 228H220C210 228 202 220 202 210V188C202 178 210 170 220 170Z" fill="#FBBF24"/>
+  <path d="M330 228L428 318L384 366L286 276L330 228Z" fill="#F59E0B"/>
+  <path d="M300 273L170 430H110L240 273H300Z" fill="#FCD34D"/>
+  <path d="M235 430H420V490H235V430Z" fill="#E2E8F0"/>
+  <rect x="185" y="490" width="270" height="36" rx="18" fill="#94A3B8"/>
+  <path d="M310 228V430" stroke="#475569" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="335" cy="180" r="28" fill="#FDBA74"/>
+</svg>

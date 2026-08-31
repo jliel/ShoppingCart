@@ -1,0 +1,8 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Banana">
+  <rect width="640" height="640" fill="#F5F8EA"/>
+  <path d="M160 360C160 252 240 165 351 165C404 165 444 190 476 228C507 266 524 311 524 356C524 455 454 522 363 522C273 522 160 472 160 360Z" fill="#F6D84A"/>
+  <path d="M198 380C225 332 290 295 364 295C420 295 464 313 495 342" stroke="#C7A130" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M320 164C307 136 290 118 270 103C251 89 234 80 208 80C234 110 245 142 253 175" fill="#C7A130" opacity="0.7"/>
+  <path d="M304 201C306 182 320 167 339 167C350 167 360 172 367 180C375 188 380 199 380 211C380 230 364 246 344 246C323 246 306 227 304 201Z" fill="#E6F49A" opacity="0.7"/>
+  <circle cx="214" cy="174" r="20" fill="#D6B136"/>
+</svg>

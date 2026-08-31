@@ -1,0 +1,10 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Coffee">
+  <rect width="640" height="640" fill="#F6F1E8"/>
+  <path d="M185 255H405C430 255 450 275 450 300V390C450 447 406 492 349 492H291C234 492 190 447 190 390V300C190 275 210 255 235 255H185Z" fill="#7C4A2D"/>
+  <path d="M450 290H490C521 290 546 315 546 346C546 377 521 402 490 402H450V290Z" fill="#9A6A45"/>
+  <path d="M215 255V220C215 198 233 180 255 180H335C357 180 375 198 375 220V255" stroke="#E7D7BE" stroke-width="20" stroke-linecap="round"/>
+  <path d="M210 315H404" stroke="#DDBE9C" stroke-width="16" stroke-linecap="round"/>
+  <path d="M223 342H390" stroke="#DDBE9C" stroke-width="16" stroke-linecap="round"/>
+  <path d="M237 370H379" stroke="#DDBE9C" stroke-width="16" stroke-linecap="round"/>
+  <path d="M288 117C288 94 307 75 330 75C355 75 373 95 373 119" stroke="#5B3523" stroke-width="16" stroke-linecap="round" fill="none"/>
+</svg>

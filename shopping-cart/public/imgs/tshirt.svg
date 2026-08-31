@@ -1,0 +1,7 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="T-Shirt">
+  <rect width="640" height="640" fill="#F9FAFB"/>
+  <path d="M210 175L145 240L210 280L245 235L285 275V490H355V275L395 235L430 280L495 240L430 175L365 210L320 150L275 210L210 175Z" fill="#38BDF8"/>
+  <path d="M210 175L245 235L285 275L275 210L210 175Z" fill="#7DD3FC"/>
+  <path d="M430 175L395 235L355 275L365 210L430 175Z" fill="#0EA5E9"/>
+  <path d="M272 275H368V490H272V275Z" fill="#E0F2FE" opacity="0.8"/>
+</svg>

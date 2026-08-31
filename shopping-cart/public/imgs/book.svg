@@ -1,0 +1,15 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Book">
+  <rect width="640" height="640" fill="#F4F6FB"/>
+  <rect x="120" y="110" width="400" height="420" rx="28" fill="#F8D49B" stroke="#C7883A" stroke-width="8"/>
+  <path d="M160 178H300C327.614 178 350 200.386 350 228V450H160V178Z" fill="#FFF9EA" opacity="0.85"/>
+  <path d="M340 178H480C507.614 178 530 200.386 530 228V450H340V178Z" fill="#FFF9EA" opacity="0.75"/>
+  <path d="M175 182V438" stroke="#C7883A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M465 182V438" stroke="#C7883A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M204 268H286" stroke="#D08A34" stroke-width="14" stroke-linecap="round"/>
+  <path d="M204 314H286" stroke="#D08A34" stroke-width="14" stroke-linecap="round"/>
+  <path d="M204 360H286" stroke="#D08A34" stroke-width="14" stroke-linecap="round"/>
+  <path d="M354 268H436" stroke="#D08A34" stroke-width="14" stroke-linecap="round"/>
+  <path d="M354 314H436" stroke="#D08A34" stroke-width="14" stroke-linecap="round"/>
+  <path d="M354 360H436" stroke="#D08A34" stroke-width="14" stroke-linecap="round"/>
+  <path d="M320 160V470" stroke="#B7772B" stroke-width="10" stroke-linecap="round"/>
+</svg>

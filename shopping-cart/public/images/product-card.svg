@@ -1,0 +1,20 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="40" fill="#F8FAFC"/>
+  <rect x="80" y="90" width="640" height="620" rx="30" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="130" y="150" width="540" height="320" rx="28" fill="url(#cardGrad)"/>
+  <circle cx="400" cy="300" r="124" fill="#F4F1FF"/>
+  <path d="M334 300C334 268.52 359.52 243 391 243H402C433.48 243 459 268.52 459 300V303H334V300Z" fill="#C4B5FD"/>
+  <path d="M356 285C356 257.386 378.386 235 406 235H410C437.614 235 460 257.386 460 285V292H356V285Z" fill="#8B5CF6"/>
+  <rect x="155" y="520" width="260" height="24" rx="12" fill="#CBD5E1"/>
+  <rect x="155" y="560" width="220" height="24" rx="12" fill="#E2E8F0"/>
+  <rect x="155" y="610" width="190" height="55" rx="18" fill="#111827"/>
+  <rect x="450" y="610" width="190" height="55" rx="18" fill="#7C3AED"/>
+  <path d="M500 640H590" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M500 665H560" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+  <defs>
+    <linearGradient id="cardGrad" x1="130" y1="150" x2="670" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+</svg>
