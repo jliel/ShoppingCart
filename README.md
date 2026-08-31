@@ -7,3 +7,4 @@ A basic project for a shopping cart that uses context to manage the shop cart, l
 Install modules
   ***tailwind
   ***Deisyui
+![preview](images/screen.png)
